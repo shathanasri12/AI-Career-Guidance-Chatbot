@@ -11,10 +11,15 @@ The application recommends the top 3 matching careers, provides explanations for
 ## Features
 
 Personalized top 3 career recommendations
+
 Weighted career matching score
+
 Career explanations and suggested courses
+
 Skill-development guidance
+
 Input validation and error handling
+
 User feedback and automated tests
 
 ## Tech Stack
