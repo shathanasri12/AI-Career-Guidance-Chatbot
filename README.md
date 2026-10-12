@@ -1,21 +1,21 @@
 # 🎓 AI Career Guidance Chatbot
 
-A web app built with **Python** and **Streamlit** that helps students discover
-suitable careers and courses. The student answers a few questions about their
-interests, skills, education and goals, and the app recommends the top 3 careers
-with a match score, a plain-English explanation, courses and skills to build.
+An interactive career guidance web application built with Python and Streamlit that helps students explore suitable career paths based on their interests, skills, education level, and goals.
+
+The application recommends the top 3 matching careers, provides explanations for each recommendation, and suggests relevant courses and skills to develop.
+
+🚀 Live Demo: https://ai-career-guidance-shathana.streamlit.app/
+
+💻 GitHub Repository: https://github.com/shathanasri12/AI-Career-Guidance-Chatbot
 
 ## Features
 
-- Modern, responsive web interface with a gradient header and sidebar
-- Chat-style questions about interests, skills, education level and career goal
-- Top 3 career recommendations with a match percentage
-- A written explanation of why each career fits the student
-- Recommended courses and the skills the student still needs to build
-- Feedback form (1-5 rating plus optional comment) saved to a CSV file
-- Input validation on every field, with clear error messages
-- Error handling for missing data files and failed saves
-- Automated tests with pytest
+Personalized top 3 career recommendations
+Weighted career matching score
+Career explanations and suggested courses
+Skill-development guidance
+Input validation and error handling
+User feedback and automated tests
 
 ## Tech Stack
 
