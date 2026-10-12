@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Software Developer",
+    "description": "Designs, builds and maintains software, websites and mobile apps.",
+    "interests": ["Technology", "Engineering"],
+    "skills": ["Programming", "Problem Solving", "Analytical Thinking", "Teamwork"],
+    "education_levels": ["Diploma", "Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "CS50: Introduction to Computer Science (Harvard, free on edX)",
+      "Python or Java programming course (Coursera / NPTEL)",
+      "B.Tech / B.E. / BCA in Computer Science (degree route)"
+    ],
+    "outlook": "High demand"
+  },
+  {
+    "name": "Data Scientist",
+    "description": "Finds patterns in data and builds models that help organisations make decisions.",
+    "interests": ["Data & Analytics", "Technology"],
+    "skills": ["Programming", "Mathematics", "Analytical Thinking", "Communication"],
+    "education_levels": ["Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "Machine Learning Specialization (Andrew Ng, Coursera)",
+      "Google Data Analytics Professional Certificate (Coursera)",
+      "Statistics and Probability (Khan Academy, free)"
+    ],
+    "outlook": "High demand"
+  },
+  {
+    "name": "UX/UI Designer",
+    "description": "Designs apps and websites that are easy, useful and enjoyable to use.",
+    "interests": ["Design & Creativity", "Technology"],
+    "skills": ["Creativity", "Communication", "Empathy", "Problem Solving"],
+    "education_levels": ["High School", "Diploma", "Undergraduate", "Graduate"],
+    "courses": [
+      "Google UX Design Professional Certificate (Coursera)",
+      "Figma beginner tutorials (free on Figma's website / YouTube)",
+      "B.Des or a design diploma (degree route)"
+    ],
+    "outlook": "Growing"
+  },
+  {
+    "name": "Digital Marketing Specialist",
+    "description": "Promotes products and brands online through content, social media, search and ads.",
+    "interests": ["Business", "Writing & Media"],
+    "skills": ["Communication", "Creativity", "Analytical Thinking", "Writing"],
+    "education_levels": ["High School", "Diploma", "Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "Google Digital Marketing & E-commerce Certificate (Coursera)",
+      "HubSpot Academy Content & Inbound Marketing (free)",
+      "Google Analytics certification (Google Skillshop, free)"
+    ],
+    "outlook": "Growing"
+  },
+  {
+    "name": "Business Analyst",
+    "description": "Studies how a business works and recommends improvements using data and communication.",
+    "interests": ["Business", "Data & Analytics"],
+    "skills": ["Analytical Thinking", "Communication", "Problem Solving", "Leadership"],
+    "education_levels": ["Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "IIBA Entry Certificate in Business Analysis (ECBA)",
+      "Excel and SQL for analysis (Coursera / NPTEL)",
+      "BBA / MBA (degree route)"
+    ],
+    "outlook": "Stable demand"
+  },
+  {
+    "name": "Healthcare Professional",
+    "description": "Cares for patients as a doctor, nurse, therapist or other allied health worker.",
+    "interests": ["Healthcare", "Science & Research"],
+    "skills": ["Empathy", "Communication", "Teamwork", "Problem Solving"],
+    "education_levels": ["High School", "Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "Biology-focused Class 11-12 followed by NEET-UG for MBBS / BDS / B.Sc Nursing",
+      "Allied health diplomas or B.Sc programmes (lab technology, physiotherapy)",
+      "First Aid and Basic Life Support certification"
+    ],
+    "outlook": "Stable demand"
+  },
+  {
+    "name": "Teacher / Educator",
+    "description": "Helps learners understand subjects and grow, in schools, colleges or online.",
+    "interests": ["Education", "Science & Research"],
+    "skills": ["Communication", "Empathy", "Leadership", "Creativity"],
+    "education_levels": ["Graduate", "Postgraduate"],
+    "courses": [
+      "B.Ed (teacher training degree)",
+      "CTET / state TET exam preparation",
+      "Teaching with technology short courses (Coursera / DIKSHA)"
+    ],
+    "outlook": "Stable demand"
+  },
+  {
+    "name": "Research Scientist",
+    "description": "Runs experiments and studies to discover new knowledge in science or engineering.",
+    "interests": ["Science & Research", "Engineering"],
+    "skills": ["Mathematics", "Analytical Thinking", "Writing", "Problem Solving"],
+    "education_levels": ["Undergraduate", "Graduate", "Postgraduate"],
+    "courses": [
+      "M.Sc or Integrated M.Sc in your chosen science",
+      "NPTEL subject courses (free, IIT/IISc faculty)",
+      "GATE or CSIR-NET exam preparation"
+    ],
+    "outlook": "Competitive but rewarding"
+  }
+]

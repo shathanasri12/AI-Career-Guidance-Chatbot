@@ -1,0 +1,13 @@
+# AI Career Guidance Chatbot - Python packages
+# Install everything with:  pip install -r requirements.txt
+
+# Web framework that builds the user interface (app.py).
+# 1.32 or newer is needed for st.container(border=True), st.chat_message and st.divider.
+# "<2.0" stops pip from installing a future major version that could break the app.
+streamlit>=1.32,<2.0
+
+# Testing tool used by tests/test_core.py. Run with:  python -m pytest -v
+pytest>=8.0
+
+# Note: json, csv, re, pathlib and datetime are part of Python itself,
+# so they do not need to be listed here.
